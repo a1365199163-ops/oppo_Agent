@@ -59,3 +59,5 @@ target/
 .parcel-cache/
 .turbo/
 
+# Local Codex project instructions
+AGENTS.md
